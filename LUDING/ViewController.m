@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     //天地会
     NSLog(@"meilid xihou");
+    
+    NSLog(@"使用了终端命令");
 }
 
 
